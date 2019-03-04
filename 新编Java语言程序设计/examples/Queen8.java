@@ -1,3 +1,11 @@
+/*
+ * @Coding: utf-8 \n
+ * @Despcription:  \n
+ * @Author: Suwen \n
+ * @LastEditors: Suwen \n
+ * @Date: 2018-08-31 21:32:24
+ * @LastEditTime: 2019-03-01 17:05:33
+ */
 package examples;
 
 public class Queen8 {

@@ -4,17 +4,17 @@
  * @Author: Suwen \n
  * @LastEditors: Suwen \n
  * @Date: 2019-02-26 17:54:45
- * @LastEditTime: 2019-03-01 15:53:06
+ * @LastEditTime: 2019-03-01 20:43:54
  */
-package exp1;
+// package exp1;
 
 public class CarApplication {
-	   public static void main(String[] arguments) {
-	    Car car1=new Car();
-	    car1.speed=100;
-	    car1.showSpeed();
-	    car1.speedUp(10);
-	    car1.showSpeed();
-	    }
+	public static void main(String[] arguments) {
+		Car car1 = new Car();
+		car1.speed = 100;
+		car1.showSpeed();
+		car1.speedUp(10);
+		car1.showSpeed();
+	}
 
 }

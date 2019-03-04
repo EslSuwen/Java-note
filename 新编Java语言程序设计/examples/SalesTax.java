@@ -1,3 +1,11 @@
+/*
+ * @Coding: utf-8 \n
+ * @Despcription:  \n
+ * @Author: Suwen \n
+ * @LastEditors: Suwen \n
+ * @Date: 2018-08-31 16:07:02
+ * @LastEditTime: 2019-03-01 17:11:13
+ */
 package examples;
 import java.util.*;  //≤Â»ÎJavaø‚
 public class SalesTax {
