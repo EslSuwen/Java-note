@@ -4,11 +4,11 @@
  * @Author: Suwen SP \n
  * @LastEditors: Suwen SP\n
  * @Date: 2019-03-11 19:04:22
- * @LastEditTime: 2019-03-11 19:12:25
+ * @LastEditTime: 2019-03-18 19:36:28
  */
 // package exp3;
 
-public class Person {
+public class erson {
     public int age; // 年龄
     public double height; // 身高
     // 定义一个info方法
