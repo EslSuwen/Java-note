@@ -2,11 +2,11 @@
  * @Coding: utf-8 \n
  * @Despcription:  \n
  * @Author: Suwen \n
- * @LastEditors: Suwen \n
+ * @LastEditors: Suwen SP\n
  * @Date: 2019-03-04 19:05:18
- * @LastEditTime: 2019-03-04 19:05:28
+ * @LastEditTime: 2019-03-26 09:26:43
  */
-package chapter02.test1;    //在新建类时设置好包名后自动生成的代码
+package exp2.test1;
 
 public class Teacher {
     String Name;

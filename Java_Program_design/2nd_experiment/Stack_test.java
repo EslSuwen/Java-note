@@ -2,11 +2,11 @@
  * @Coding: utf-8 \n
  * @Despcription:  \n
  * @Author: Suwen \n
- * @LastEditors: Suwen \n
+ * @LastEditors: Suwen SP\n
  * @Date: 2019-03-04 20:01:27
- * @LastEditTime: 2019-03-04 20:10:51
+ * @LastEditTime: 2019-03-26 09:23:27
  */
-
+package exp2;
 import java.util.Stack;
 public class Stack_test {
     public static void main(String[] args){

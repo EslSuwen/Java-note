@@ -6,7 +6,7 @@
  * @Date: 2019-02-26 17:54:45
  * @LastEditTime: 2019-03-01 20:43:49
  */
-// package exp1;
+package exp1;
 
 public class Car {
 	int speed;

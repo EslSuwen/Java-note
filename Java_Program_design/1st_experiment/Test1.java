@@ -3,9 +3,11 @@
  * @Despcription:  \n
  * @Author: Suwen \n
  * @Date: 2019-02-25 19:37:30
- * @LastEditors: Suwen \n
- * @LastEditTime: 2019-03-01 15:53:15
+ * @LastEditors: Suwen SP\n
+ * @LastEditTime: 2019-03-26 09:22:25
  */
+package exp1;
+
 public class Test1 {
     public static void main(String[] args) {
         System.out.println(args[0]);

@@ -7,6 +7,7 @@
  * @Date: 2019-03-04 20:13:09
  * @LastEditTime: 2019-03-04 20:24:33
  */
+package exp2;
 import java.util.Scanner;
 
 class Cook_and_rabbit {
