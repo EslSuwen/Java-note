@@ -2,6 +2,8 @@
 
 *.class
 /bin/
+/.recommenders/
+/.metadata/
 /ex-netbeans/nbproject/private/
 /ex-netbeans/build/
 /JavaFXSwingApplication1/nbproject/private/
