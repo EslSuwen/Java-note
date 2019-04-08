@@ -5,7 +5,7 @@
  * @Author: Suwen SP \n
  * @LastEditors: Suwen SP\n
  * @Date: 2019-03-31 15:55:40
- * @LastEditTime: 2019-03-31 15:57:28
+ * @LastEditTime: 2019-04-08 19:06:43
  */
 
 import java.awt.event.ActionEvent;
@@ -58,6 +58,9 @@ public class CalcListener implements ActionListener {
 
         // 退格
         case "←":
+            String temp = jtf.getText();
+            sb.setLength(temp.length() - 1);
+            jtf.setText(temp.substring(0,temp.length() - 1));
             break;
 
         // 四则运算处理 处理两个运算符问题两个点
